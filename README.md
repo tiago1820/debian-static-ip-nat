@@ -79,6 +79,14 @@ iface enp1s0 inet static
 
 ---
 
+---
+
+## Troubleshooting
+
+For common issues and solutions, see [notes/troubleshooting.md](notes/troubleshooting.md).
+
+---
+
 ## Result screenshot
 
 ![Result of `ip a`](docs/ip-address-check.png)
